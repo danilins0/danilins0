@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o Daniel! 👋</h1>
 
 <p align="center">
-💻 Estagiário de Desenvolvimento Web na <strong>Prodemge</strong><br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-🚀 Apaixonado por tecnologia e desenvolvimento de software
+° Estagiário de Desenvolvimento Web na <strong>Prodemge</strong><br>
+° Estudante de Análise e Desenvolvimento de Sistemas<br>
+° Apaixonado por tecnologia e desenvolvimento de software
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Estagiário de Desenvolvimento Web** na **Prodemge**, onde participo da manutenção e evolução de sistemas corporativos.
 
@@ -18,7 +18,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,react,html,css,bootstrap,mysql,git,vscode,androidstudio" />
@@ -26,7 +26,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ---
 
-## 📂 O que você encontrará aqui
+## O que você encontrará aqui
 
 - 💻 Projetos Web
 - ☕ Projetos em Java
@@ -37,7 +37,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ---
 
-## 📈 Atualmente estudando
+## Atualmente estudando
 
 - React
 - Engenharia de Software
@@ -47,7 +47,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções de qualidade, aprendendo novas tecnologias e participando de projetos que gerem impacto positivo.
 
