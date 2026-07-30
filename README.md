@@ -55,7 +55,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções de
 
 ## 📫 Contato
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/daniel-shumacher-114b5b385">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
