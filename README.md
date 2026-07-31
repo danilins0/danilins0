@@ -21,7 +21,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 ##  Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,bootstrap,mysql,git,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,bootstrap,mysql,git,vscode,androidstudio,cakephp" />
 </p>
 
 ---
