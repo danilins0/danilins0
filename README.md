@@ -28,12 +28,12 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
 
 ## O que você encontrará aqui
 
-- 💻 Projetos Web
-- ☕ Projetos em Java
-- ⚛️ Aplicações React
-- 📱 Estudos em React Native
-- 🗄️ Banco de Dados
-- 📚 Projetos desenvolvidos durante meus estudos
+-  Projetos Web
+-  Projetos em Java
+-  Aplicações React
+-  Estudos em React Native
+-  Banco de Dados
+-  Projetos desenvolvidos durante meus estudos
 
 ---
 
