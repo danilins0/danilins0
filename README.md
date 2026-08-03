@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou o Daniel! 👋</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Daniel!+👋" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
 ° Estagiário de Desenvolvimento Web na <strong>Prodemge</strong><br>
