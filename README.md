@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Daniel!+👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Daniel!+👋;Desenvolvedor+Java;CakePHP+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
 
 </div>
 
